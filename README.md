@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Luiz Toledo 👋
 
+- 🤓 Universitário de Engenharia de Computação
 - 🔭 Hoje trabalho como QA Tester
 - 🌱 Estudando Java e Python
 - 📫 Contate-me no email: luizsigtoledo@gmail.com
