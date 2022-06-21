@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz Toledo 👋
 
 - 🤓 Universitário de Engenharia de Computação
-- 🌱 Estudando Flutter
+- 🌱 QA Tester/Analista de Homologação
 - 📫 Contate-me no email: luizsigtoledo@gmail.com
 
 <div>
