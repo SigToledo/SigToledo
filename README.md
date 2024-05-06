@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz Toledo 👋
 
-- 🤓 Universitário de Engenharia de Computação
-- 🌱 QA Tester/Analista de Homologação
+- 🤓 Universitário de Engenharia de Computação - PUCPR
+- 🏎 Projetista elétrico Formula SAE
 - 📫 Contate-me no email: luizsigtoledo@gmail.com
 
 <div>
