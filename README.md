@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz Toledo 👋
 
 - 🤓 Universitário de Engenharia de Computação - PUCPR
-- 🏎 Projetista elétrico Formula SAE
+- 🏎 Projetista elétrico Formula SAE PUCPR Racing
 - 📫 Contate-me no email: luizsigtoledo@gmail.com
 
 <div>
