@@ -1,27 +1,41 @@
 ### Olá! Eu sou o Luiz Toledo 👋
 
-- 🤓 Universitário de Engenharia de Computação - PUCPR
-- 🏎 Projetista elétrico Formula SAE PUCPR Racing
-- 📫 Contate-me no email: luizsigtoledo@gmail.com
+Estudante de Engenharia de Computação na PUCPR (conclusão prevista para 2028), em Curitiba/PR.
+Trabalho com análise de dados de pista e eletrônica embarcada no automobilismo.
 
-<div>
-  <a href="https://github.com/SigToledo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SigToledo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SigToledo&layout=compact&langs_count=7&theme=dark"/>
-</div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-##
-  
-<div> 
-  <a href="https://instagram.com/luiz_toledo99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Siduuss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizsigtoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-augusto-signorelli-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/SigToledo/SigToledo/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
+- 🏁 **B&B Racing Team — Marcas Brasil Racing (MBR):** analista de dados de pista (MyChron 5 / RaceStudio 3, Garmin Catalyst, rádio com o piloto)
+- 🚛 **Fórmula Truck:** engenharia de corrida na Manica Motorsports (dez/2024 – fev/2026) e, desde 2026, acompanhamento dos caminhões da Barra MotorSport
+- 🏎️ **PUCPR Racing (Fórmula SAE):** na equipe desde 2023; gestor de eletrônica de set/2025 a ago/2026 (rede CAN, telemetria, chicotes e sensores)
+- 🎓 **TCC em andamento:** sistema de telemetria via LoRa para veículo Fórmula SAE
+
+### 📌 Projeto em destaque
+
+**[Análise de Voltas](https://github.com/SigToledo/analise-voltas-corrida)**: app desktop que lê os PDFs de cronometragem Orbits/MyLaps
+e calcula melhor volta, volta teórica, ritmo, consistência e gaps por setor entre pilotos.
+Python/FastAPI + React/TypeScript + Tauri.
+
+### 🛠️ Ferramentas
+
+<p>
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+  <img alt="FastAPI" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">&nbsp;
+  <img alt="pandas" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">&nbsp;
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</p>
+
+Dados de pista: AiM MyChron 5 / RaceStudio 3 · Garmin Catalyst · FuelTech FT550 / FTManager · cronometragem Orbits/MyLaps · Excel
+
+### 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/luiz-augusto-signorelli-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:luizsigtoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/luiz_toledo99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SigToledo/SigToledo/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animação da cobrinha nas contribuições" src="https://raw.githubusercontent.com/SigToledo/SigToledo/output/github-contribution-grid-snake.svg">
+</picture>
